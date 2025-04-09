@@ -101,6 +101,7 @@ Ensure that the required CSV datasets and video/image data are available in the 
 ## 🙋‍♂️ Author
 
 Developed by Saket Maganti
+
 Feel free to contribute or extend this project for academic or research purposes.
 
 ---
